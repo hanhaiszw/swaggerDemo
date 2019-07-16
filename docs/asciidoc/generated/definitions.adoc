@@ -1,0 +1,37 @@
+
+[[_definitions]]
+== 定义
+
+[[_resobject]]
+=== ResObject
+
+[options="header", cols=".^3,.^11,.^4"]
+|===
+|名称|说明|类型
+|**code** +
+__可选__|**样例** : `0`|integer (int32)
+|**data** +
+__可选__|**样例** : `"object"`|object
+|**desc** +
+__可选__|**样例** : `"string"`|string
+|===
+
+
+[[_user]]
+=== User
+
+[options="header", cols=".^3,.^11,.^4"]
+|===
+|名称|说明|类型
+|**email** +
+__可选__|**样例** : `"string"`|string
+|**password** +
+__可选__|**样例** : `"string"`|string
+|**userId** +
+__可选__|**样例** : `"string"`|string
+|**userName** +
+__可选__|**样例** : `"string"`|string
+|===
+
+
+
